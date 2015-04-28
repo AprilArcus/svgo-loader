@@ -25,7 +25,7 @@
     "webpack": "^1.4.13"
   },
   "dependencies": {
-    "svgo": "https://github.com/AprilArcus/svgo.git",
+    "svgo": "git://github.com/AprilArcus/svgo.git#master",
     "loader-utils": "^0.2.5"
   }
 }
