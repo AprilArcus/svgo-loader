@@ -24,10 +24,8 @@
     "file-loader": "^0.8.1",
     "webpack": "^1.4.13"
   },
-  "peerDependencies": {
-    "svgo": ">=0.4.0"
-  },
   "dependencies": {
+    "svgo": "https://github.com/AprilArcus/svgo.git",
     "loader-utils": "^0.2.5"
   }
 }
